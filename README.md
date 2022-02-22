@@ -1,4 +1,7 @@
 - 👋 Hi!!! I’m Jerry, senior DBA of MSSQL, lead a small infra team for internet service.  
 - :hear_no_evil: Interested in database performance tuning, web architecture design, and problem solving.
+- :rocket: 2021 PASSTW SQL Saturday speaker
+- :rocket: 2022 PASSTW SQL SUMMIT speaker
+- :rocket: 2022 PASSTW webinar speaker  
 - :scroll: my Meduim https://medium.com/dba-jungle
 - :right_anger_bubble: reach me at LinkedIn https://www.linkedin.com/in/jerry-hsu-6ba16a31/
